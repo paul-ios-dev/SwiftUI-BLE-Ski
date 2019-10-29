@@ -13,6 +13,7 @@
 		1E52C7CA236495D300ABE75A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E52C7C9236495D300ABE75A /* Assets.xcassets */; };
 		1E52C7CD236495D300ABE75A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E52C7CC236495D300ABE75A /* Preview Assets.xcassets */; };
 		1E52C7D0236495D300ABE75A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E52C7CE236495D300ABE75A /* LaunchScreen.storyboard */; };
+		1E52C7D82364965900ABE75A /* myBLEManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E52C7D72364965900ABE75A /* myBLEManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1E52C7CC236495D300ABE75A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1E52C7CF236495D300ABE75A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E52C7D1236495D300ABE75A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E52C7D72364965900ABE75A /* myBLEManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myBLEManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1E52C7C3236495D100ABE75A /* AppDelegate.swift */,
 				1E52C7C5236495D100ABE75A /* SceneDelegate.swift */,
 				1E52C7C7236495D100ABE75A /* ContentView.swift */,
+				1E52C7D72364965900ABE75A /* myBLEManager.swift */,
 				1E52C7C9236495D300ABE75A /* Assets.xcassets */,
 				1E52C7CE236495D300ABE75A /* LaunchScreen.storyboard */,
 				1E52C7D1236495D300ABE75A /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E52C7C4236495D100ABE75A /* AppDelegate.swift in Sources */,
+				1E52C7D82364965900ABE75A /* myBLEManager.swift in Sources */,
 				1E52C7C6236495D100ABE75A /* SceneDelegate.swift in Sources */,
 				1E52C7C8236495D100ABE75A /* ContentView.swift in Sources */,
 			);
